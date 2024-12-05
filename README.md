@@ -8,6 +8,14 @@ The repository contains the following files and folders:
 
 This folder contains Python scripts used for sentiment and correlation analysis.
 
+### Multilingual Wikipedia Sentiment Analysis BERT AND XLM-RoBERTa.py
+- Analyzes sentiment scores for articles in multiple languages using bert-base-multilingual-uncased-sentiment and twitter-XLM-roBERTa-base.
+- Outputs: The CSV files in the sentiment_statistics folder.
+
+### Multilingual Wikipedia Sentiment Analysis LaBSE.py
+- Analyzes sentiment scores using the LaBSE model.
+- Outputs: The CSV files in the sentiment_statistics folder.
+
 ### Sentiment_Favorable_Correlation.py
 -   Analyzes sentiment scores for each language.
 -   Outputs: The CSV files in the article_favorable_correlation folder.
