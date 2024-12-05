@@ -1,8 +1,8 @@
 # Multilingual Wikipedia Sentiment Analysis
 
-This project explores sentiment analysis across Wikipedia articles about various presidents in multiple languages, correlating sentiment scores with global favorability perceptions. 
+This project analyzes sentiment across Wikipedia articles about various presidents in multiple languages, examining correlations between sentiment scores and global favorability perceptions.
 
-Below is a detailed explanation of the files and folders included in this repository.
+The repository contains the following files and folders:
 
 ## 1. code
 
@@ -63,3 +63,24 @@ CSV filenames include the model used for analysis:
 -   xlm_roberta: twitter-XLM-roBERTa-base
 
 Each file reflects results specific to the respective model.
+
+***
+
+## Results
+
+Below are the overall correlations between favorability ratings and mean/median sentiment scores as calculated by Sentiment_Favorable_Correlation.py. These results are also included in the final report.
+
+### model: bert-base-multilingual-uncased-sentiment
+- Correlations with US Favorable Views:
+  - Mean_Sentiment: -0.010
+  - Median_Sentiment: -0.042
+
+### model: LaBSE
+- Correlations with US Favorable Views:
+  - Mean_Sentiment: 0.008
+  - Median_Sentiment: 0.020
+
+### model: twitter-XLM-roBERTa-base
+- Correlations with US Favorable Views:
+  - Mean_Sentiment: -0.393
+  - Median_Sentiment: -0.386
