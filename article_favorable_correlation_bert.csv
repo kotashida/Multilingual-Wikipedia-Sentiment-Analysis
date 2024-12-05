@@ -1,0 +1,46 @@
+Article_Title,Mean_Sentiment_Correlation,Median_Sentiment_Correlation,Total_Languages
+Joe Biden,-0.328,-0.404,17.0
+Donald Trump,-0.393,-0.272,17.0
+Barack Obama,-0.12,-0.047,17.0
+George W. Bush,-0.286,-0.184,17.0
+Bill Clinton,-0.267,-0.322,17.0
+George H. W. Bush,-0.08,-0.016,17.0
+Ronald Reagan,-0.31,-0.226,17.0
+Jimmy Carter,-0.442,-0.577,16.0
+Gerald Ford,0.075,0.013,17.0
+Richard Nixon,-0.189,-0.25,16.0
+Lyndon B. Johnson,0.074,0.178,16.0
+John F. Kennedy,0.185,0.114,17.0
+Dwight D. Eisenhower,-0.063,0.031,17.0
+Harry S. Truman,-0.276,-0.137,17.0
+Franklin D. Roosevelt,-0.24,-0.292,17.0
+Herbert Hoover,0.196,0.101,17.0
+Calvin Coolidge,-0.104,-0.148,17.0
+Warren G. Harding,0.227,0.203,17.0
+Woodrow Wilson,-0.011,0.087,17.0
+William Howard Taft,0.145,0.118,17.0
+Theodore Roosevelt,0.039,0.031,17.0
+William McKinley,0.1,0.045,17.0
+Grover Cleveland,0.095,0.008,17.0
+Benjamin Harrison,0.146,0.044,17.0
+Chester A. Arthur,0.206,0.166,17.0
+James A. Garfield,0.065,-0.007,17.0
+Rutherford B. Hayes,0.403,0.278,16.0
+Ulysses S. Grant,0.056,-0.043,17.0
+Andrew Johnson,0.133,-0.238,17.0
+Abraham Lincoln,-0.211,-0.086,17.0
+James Buchanan,-0.084,-0.191,17.0
+Franklin Pierce,-0.066,-0.01,16.0
+Millard Fillmore,0.499,0.397,16.0
+Zachary Taylor,0.083,0.002,16.0
+James K. Polk,0.012,0.027,16.0
+John Tyler,0.17,0.13,16.0
+William Henry Harrison,-0.097,-0.2,16.0
+Martin Van Buren,-0.101,-0.074,16.0
+Andrew Jackson,0.003,-0.128,16.0
+John Quincy Adams,-0.112,-0.145,16.0
+James Monroe,-0.107,-0.071,16.0
+James Madison,-0.139,-0.155,17.0
+Thomas Jefferson,0.352,0.083,17.0
+John Adams,-0.168,-0.148,17.0
+George Washington,0.043,0.071,17.0
