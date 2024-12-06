@@ -1,4 +1,4 @@
-# Multilingual Wikipedia Sentiment Analysis
+# National Favorability and Sentiment Bias
 
 This project analyzes sentiment across Wikipedia articles about various presidents in multiple languages, examining correlations between sentiment scores and global favorability perceptions.
 
