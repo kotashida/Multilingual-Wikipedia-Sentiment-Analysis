@@ -1,4 +1,4 @@
-# National Favorability and Sentiment Bias
+# National Favorability and Sentiment Bias: Insights from Wikipedia Articles About U.S. Presidents
 
 This project analyzes sentiment across Wikipedia articles about various presidents in multiple languages, examining correlations between sentiment scores and global favorability perceptions.
 
