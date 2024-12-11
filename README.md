@@ -82,13 +82,16 @@ Below are the overall correlations between favorability ratings and mean/median 
 - Correlations with US Favorable Views:
   - Mean_Sentiment: -0.010
   - Median_Sentiment: -0.042
+- Mean Standard Deviation Across Languages: 0.058
 
 ### Model 2: LaBSE
 - Correlations with US Favorable Views:
   - Mean_Sentiment: 0.008
   - Median_Sentiment: 0.020
+- Mean Standard Deviation Across Languages: 0.065
 
 ### Model 3: twitter-XLM-roBERTa-base
 - Correlations with US Favorable Views:
   - Mean_Sentiment: -0.393
   - Median_Sentiment: -0.386
+- Mean Standard Deviation Across Languages: 0.090
