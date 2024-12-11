@@ -71,6 +71,8 @@ print("\nCorrelations with US Favorable Views:")
 for metric, corr in correlations.items():
     print(f"{metric}: {corr:.3f}")
 
+print(f"\nMean Standard Deviation Across Languages: {result_df['Standard_Deviation'].mean():.3f}")
+
 print("\nDetailed Data:")
 result_df = result_df.sort_values('Favorable_View', ascending=False)
 print(result_df.to_string(index=False))
