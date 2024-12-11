@@ -76,7 +76,7 @@ Each file reflects results specific to the respective model.
 
 ## Results
 
-Below are the overall correlations between favorability ratings and mean/median sentiment scores as calculated by Sentiment_Favorable_Correlation.py. These results are also included in the final report.
+The overall correlations between favorability ratings and mean/median sentiment scores, along with the mean standard deviation across languages, were calculated using Sentiment_Favorable_Correlation.py and are summarized below.
 
 ### Model 1: bert-base-multilingual-uncased-sentiment
 - Correlations with US Favorable Views:
